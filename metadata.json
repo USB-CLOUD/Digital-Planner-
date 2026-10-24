@@ -1,0 +1,6 @@
+{
+  "name": "All-in-One Digital Planner",
+  "description": "A skeuomorphic two-page open binder digital planner with interactive tabs, daily/weekly/monthly trackers, canvas drawing, stickers, and AI smart scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
